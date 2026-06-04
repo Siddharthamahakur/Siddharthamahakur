@@ -1,6 +1,23 @@
-# 💫 About Me:
+# Hi, I'm Siddharth 👋
 
-[//]: # (🔭 I’m currently working on :<br> Building a GenAI-powered Automated Billing Spike Detection & Reporting System with Python and Streamlit.<br><br>👯 I’m looking to collaborate:<br> Enterprise Agentic AI frameworks and high-performance, functional Spark DSL architectures.<br><br>🤝 I’m looking for help with :<br>Advanced distributed data patterns and mastering enterprise Unity Catalog governance.<br><br>🌱 I’m currently learning :<br>Prepping for the Databricks Certified Data Engineer Professional credential.<br><br>💬 Ask me about:<br>Large-scale cloud migrations, real-time streaming &#40;Kafka/Flink&#41;, and why you should avoid UDFs at all costs.<br><br>⚡ Fun fact: <br>I balance optimizing data pipelines with tweaking high-performance developer setups, music, and travel!)
+> Senior Data Engineer · Cloud Migrations · Real-Time Streaming · GenAI Pipelines
+
+I build large-scale data platforms on AWS, Azure, and GCP — specialising in real-time streaming with Kafka & Flink, high-performance Spark architectures, and increasingly, GenAI-powered data tooling.
+
+---
+
+## 🔍 What I'm up to
+
+| | |
+|---|---|
+| 🔭 **Building** | GenAI-powered Billing Spike Detection & Reporting System — Python + Streamlit |
+| 👯 **Collaborating on** | Enterprise Agentic AI frameworks & functional Spark DSL architectures |
+| 🤝 **Looking for help with** | Advanced distributed data patterns & Unity Catalog governance at scale |
+| 🌱 **Learning** | Databricks Certified Data Engineer Professional |
+| 💬 **Ask me about** | Cloud migrations, Kafka/Flink streaming, and why you should avoid UDFs at all costs |
+| ⚡ **Fun fact** | I balance optimising pipelines with high-performance dev setups, music, and travel |
+
+---
 
 
 ## 🌐 Socials:
